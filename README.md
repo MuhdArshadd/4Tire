@@ -49,3 +49,9 @@ This project is a simple Object-Oriented Programming (OOP) system developed in *
 
 * Customers register, log in, book services, manage bookings, make payments, and view invoices.
 * Staff log in, manage booking requests, assign service jobs, and review invoices.
+
+---
+
+## Demo ▶️
+
+* Watch here: https://youtu.be/DDuG1yB9RN0?si=Vp0QGgv_xQvazoQR
